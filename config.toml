@@ -4,6 +4,7 @@ theme = "hugo-swift-theme"
 paginate = 6
 pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true
+baseURL = "https://blog.yiyenene.club/"
 
 [params]
     description = "個人の感想です"
