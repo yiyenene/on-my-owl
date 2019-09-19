@@ -1,0 +1,21 @@
+.author {
+  &_links {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    //margin-top: 0.5rem; 
+
+    &_link {
+      margin: 0.4rem;
+      padding: 2px !important;
+      border-radius: 50%;
+      background-color: #FFFFFF;
+    } 
+
+    &_img {
+      margin: 0;
+      min-width: 32px;
+      min-height: 32px;
+    } 
+  }
+}

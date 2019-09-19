@@ -1,0 +1,48 @@
+// .intro{
+//   margin: 4rem 0 1rem;
+//   background: var(--dark);
+//   padding: 2rem 1.5rem;
+//   color:  var(--light);
+//   &_inner{
+//     @include viewport(59rem);
+//     margin: 0 auto;
+//     text-align: center;
+//     padding: 25px;
+//     position: relative;
+//     background-color: var(--bubble);
+//     border-radius: 1rem;
+//   }
+//   &_headline{
+//     margin: 0 auto;
+//     font-weight: 300;
+//   }
+//   &_desc {
+//     opacity: 0.8;
+//     text-align: center;
+//   }
+// }
+
+.intro {
+  &_inner {
+    background-image: url($bgImage);
+    background-repeat: no-repeat;
+    background-size: cover;
+    // height: 20rem;
+    padding: 0;
+  }
+
+  &_container {
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 1rem;
+    margin: auto;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5rem 0;
+
+    @media screen and (max-width: 567px) {
+      padding: 2rem 0;
+    }
+  }
+}

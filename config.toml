@@ -1,0 +1,12 @@
+languageCode = "ja-jp"
+title = "on-my-owl"
+theme = "hugo-swift-theme"
+paginate = 6
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+
+[params]
+    description = "個人の感想です"
+
+[taxonomies]
+    tag = "tags"
