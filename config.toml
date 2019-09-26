@@ -9,6 +9,7 @@ baseURL = "https://blog.yiyenene.club/"
 [params]
     description = "個人の感想です"
     twitter = "yiyenene"
+    ga_analytics = "UA-148824156-1"
 
 [taxonomies]
     tag = "tags"
