@@ -1,5 +1,5 @@
 ---
-title: Mint60 ビルドログ
+title: Mint60 組んでみました
 date: 2020-02-15T17:00:26.240Z
 author: yiyenene
 image: /images/uploads/20200216_keyboard.jpg
