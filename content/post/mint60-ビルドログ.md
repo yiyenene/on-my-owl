@@ -5,7 +5,7 @@ author: yiyenene
 image: /images/uploads/20200216_keyboard.jpg
 tags:
   - keyboard
-draft: 'true'
+draft: false
 ---
 ## 自作キーボード入門編
 
