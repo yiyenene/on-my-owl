@@ -42,6 +42,8 @@ LEDテープの金属部分と飛び出たキースイッチの足が接触し�
 
 ![progress](/images/uploads/20200216_switches.jpg)
 
+![progress](/images/uploads/20200216_keyboard.jpg)
+
 ### 総括
 
 いざ初めてみるとあっという間に時間が溶けて楽しかったです。静音赤軸は打ち心地も好みなので概ね満足です。
